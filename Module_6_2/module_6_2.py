@@ -10,19 +10,19 @@ class Vehicle:
         self.__engine_power = __engine_power
         self.__color = __color
 
-    def get_model(self, __model):
+    def get_model(self):
         return print(f'Модель: {self.__model}')
 
-    def get_horsepower(self, engine_power):
+    def get_horsepower(self):
         return print(f'Мощность двигателя: {self.__engine_power}')
 
-    def get_color(self, color):
+    def get_color(self):
         return print(f'Цвет: {self.__color}')
 
     def print_info(self):
-        self.get_model(self.__model)
-        self.get_horsepower(self.__engine_power)
-        self.get_color(self.__color)
+        self.get_model()
+        self.get_horsepower()
+        self.get_color()
         print(f'Владелец: {self.owner}')
 
     def set_color(self, new_color):

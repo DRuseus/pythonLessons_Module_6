@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Сделано практическое задание по теме &quot;Зачем нужно наследование&quot;">
-      <change afterPath="$PROJECT_DIR$/Module_6_2/module_6_2.py" afterDir="false" />
+    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6_2/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_6_2/module_6_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +94,29 @@
       <option name="project" value="LOCAL" />
       <updated>1722613513663</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Сделано практическое задание по теме &quot;Доступ к свойствам родителя. Переопределение свойств.&quot;">
+      <option name="closed" value="true" />
+      <created>1722620197155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722620197155</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)">
+      <option name="closed" value="true" />
+      <created>1722620543446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722620543446</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сделано практическое задание по теме &quot;Зачем нужно наследование&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделано практическое задание по теме &quot;Зачем нужно наследование&quot;" />
+    <MESSAGE value="Сделано практическое задание по теме &quot;Доступ к свойствам родителя. Переопределение свойств.&quot;" />
+    <MESSAGE value="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)" />
   </component>
 </project>
