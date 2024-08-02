@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)">
+    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color">
+      <change afterPath="$PROJECT_DIR$/Module_6_3/module_6_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_6_2/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_6_2/module_6_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Python.module_6_1.executor": "Run",
     "Python.module_6_2.executor": "Run",
+    "Python.module_6_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -110,13 +111,33 @@
       <option name="project" value="LOCAL" />
       <updated>1722620543446</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color">
+      <option name="closed" value="true" />
+      <created>1722621363855</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722621363855</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сделано практическое задание по теме &quot;Зачем нужно наследование&quot;" />
     <MESSAGE value="Сделано практическое задание по теме &quot;Доступ к свойствам родителя. Переопределение свойств.&quot;" />
     <MESSAGE value="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)" />
+    <MESSAGE value="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module_6_3/module_6_3.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
