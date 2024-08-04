@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color">
-      <change afterPath="$PROJECT_DIR$/Module_6_3/module_6_3.py" afterDir="false" />
+    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Сделано практическое задание по теме &quot;Множественное наследование&quot;">
+      <change afterPath="$PROJECT_DIR$/Module_6_hard/module6hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DRuseus"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DRuseus&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DRuseus/pythonLessons_Module_6.git",
-    "accountId": "61f6ea7f-e0ac-4c72-91de-b0a6a5d098d1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DRuseus/pythonLessons_Module_6.git&quot;,
+    &quot;accountId&quot;: &quot;61f6ea7f-e0ac-4c72-91de-b0a6a5d098d1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2k6lU9RBDn9SkcVo4AhtY1UEh2T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.module6hard.executor": "Run",
     "Python.module_6_1.executor": "Run",
     "Python.module_6_2.executor": "Run",
     "Python.module_6_3.executor": "Run",
@@ -119,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722621363855</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Сделано практическое задание по теме &quot;Множественное наследование&quot;">
+      <option name="closed" value="true" />
+      <created>1722625504183</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722625504183</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,17 +137,7 @@
     <MESSAGE value="Сделано практическое задание по теме &quot;Доступ к свойствам родителя. Переопределение свойств.&quot;" />
     <MESSAGE value="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)" />
     <MESSAGE value="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color" />
-    <option name="LAST_COMMIT_MESSAGE" value="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Module_6_3/module_6_3.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Сделано практическое задание по теме &quot;Множественное наследование&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделано практическое задание по теме &quot;Множественное наследование&quot;" />
   </component>
 </project>
