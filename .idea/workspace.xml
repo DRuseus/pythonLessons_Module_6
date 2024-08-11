@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Сделано практическое задание по теме &quot;Множественное наследование&quot;">
-      <change afterPath="$PROJECT_DIR$/Module_6_hard/module6hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="37cad6a7-0d1a-4a7e-bd93-c4f22619711c" name="Changes" comment="Сделано дополнительное практическое задание по 6 модулю">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6_2/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_6_2/module_6_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.module6hard.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.module_6_3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.module6hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -129,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722625504183</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Сделано дополнительное практическое задание по 6 модулю">
+      <option name="closed" value="true" />
+      <created>1722799683082</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722799683082</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +145,7 @@
     <MESSAGE value="Испралена ошибка с вводимыми данными (можно было вписать строку в параметр мощности двигателя)" />
     <MESSAGE value="Убрал ненужную передачу аргументов в методы get_model, get_horsepower и get_color" />
     <MESSAGE value="Сделано практическое задание по теме &quot;Множественное наследование&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделано практическое задание по теме &quot;Множественное наследование&quot;" />
+    <MESSAGE value="Сделано дополнительное практическое задание по 6 модулю" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделано дополнительное практическое задание по 6 модулю" />
   </component>
 </project>
